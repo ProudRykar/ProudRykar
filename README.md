@@ -19,27 +19,29 @@
 ---
 
 ### My stack: 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 
-<div>
-<img height="32" width="32" src="https://cdn.simpleicons.org/python/black/white" />
-<img height="32" width="32" scr="https://cdn.simpleicons.org/javascript/black/white" />
-<img height="32" width="32" scr="https://cdn.simpleicons.org/electron/black/white" />
-<img height="32" width="32" src="https://cdn.simpleicons.org/sqlite/black/white" />
-</div>
+
+---
+
+### My IDEs/Editors
+![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
 ### My stats:
 
-![codewarses](https://www.codewars.com/users/proudrykar/badges/large)
+![codewarses](https://www.codewars.com/users/ProudRykar/badges/large)
 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
-<!---
-ProudRykar/ProudRykar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Wolves:
+
+![Wolves](/pics/wolves.jpg)

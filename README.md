@@ -14,7 +14,7 @@
 ---
 
 ### Who am I?
-- I'm a Python enthusiast. Learn coding for university and my needs. Using ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) and trying to customize it
+- I'm a Python enthusiast and Fronted developer. Learn coding for university and my needs. Using ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) and trying to customize it
 ---
 
 ## My stack:

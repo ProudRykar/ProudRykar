@@ -17,7 +17,7 @@
 
 ### Who am I?
 - I'm a Python enthusiast and Fronted developer. Learn coding for university and my needs. Using Manjaro and trying to customize it
-- 
+  
 ---
 
 ## My stack:

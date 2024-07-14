@@ -1,20 +1,23 @@
-<h1 align="center">Hi there, I'm Nikita Zhukov (@ProudRykar) 🐺</h1>
+<h1 align="center">Hi there, I'm Nikita Zhukov (@ProudRykar) 🐺 </h1>
 
 <div align="center">
 <a href="https://www.codewars.com/users/ProudRykar" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Codewars-%23B1361E?style=flat-square&logo=Codewars&labelColor=grey&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fproudrykar">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Codewars-%23B1361E?style=for-the-badge&logo=Codewars&labelColor=grey&link=https%3A%2F%2Fwww.codewars.com%2Fusers%2Fproudrykar">
 </a>
 
 <a href="https://t.me/proudrykar" target="_blank">
-  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%2326A5E4?style=flat-square&logo=telegram&labelColor=grey&link=https%3A%2F%2Ft.me%2Fproudrykar">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%2326A5E4?style=for-the-badge&&logo=telegram&labelColor=grey&link=https%3A%2F%2Ft.me%2Fproudrykar">
 </a>
 
-<details align="center">
+<a target="_blank">
+  <img alt="Static Badge" src="https://komarev.com/ghpvc/?username=ProudRykar&color=green&style=for-the-badge&">
+</a>
   
 ---
 
 ### Who am I?
-- I'm a Python enthusiast and Fronted developer. Learn coding for university and my needs. Using ![Manjaro](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white) and trying to customize it
+- I'm a Python enthusiast and Fronted developer. Learn coding for university and my needs. Using Manjaro and trying to customize it
+- 
 ---
 
 ## My stack:
@@ -39,14 +42,13 @@
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
----
-### My big failure in use
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
----
-
 ### My stats:
 
 ![codewarses](https://www.codewars.com/users/ProudRykar/badges/large)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ProudRykar&theme=merko&hide_border=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ProudRykar&show_icons=true&theme=merko&color=green&hide_border=true)
+![Top languages in commits card](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ProudRykar&theme=merko)
 
 ---
 
